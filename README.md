@@ -12,7 +12,7 @@ The goal of the project is to develop a machine learning model capable of detect
 Financial fraud causes significant economic losses and affects user confidence in online payment systems. An effective detection model can reduce these losses while avoiding the unnecessary blocking of legitimate transactions.
 
 ## Dataset
-The dataset used contains more than 568,000 transactions, each described by 30 numerical variables.
+The dataset used contains more than 568 000 transactions, each described by 30 numerical variables.
 - Explanatory variables: V1 to V28 (anonymised variables), transaction amount and elapsed time
 - Target variable: Class  
   -> 0: legitimate transaction  
