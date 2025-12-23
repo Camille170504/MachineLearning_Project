@@ -20,13 +20,13 @@ The dataset used contains more than 568,000 transactions, each described by 30 n
 
 Our dataset is clean, with no missing values, and balanced between fraudulent and non-fraudulent transactions.
 
-## Our methodology: 
+## Our methodology 
 We divided our project into four stages:
 - Analysis of our dataset
 - Training and evaluation of different models
 - Selection of our model
 
-## Our models: 
+## Our models
 We tested the following models: 
 - Logistic regression
 - KNN
@@ -34,7 +34,7 @@ We tested the following models:
 - XGBoost
 - LightGBM
 
-## File organisation: 
+## File organisation 
 - dataset: https://drive.google.com/drive/folders/1jWy0TTkHDhrWvijZ_e9NbIOnjDIRdNKP?usp=sharing
 - "descriptive_analysis.ipynb": analysis of our dataset
 - "Models_Preprocessing.ipynb": training and evaluation of models
