@@ -14,8 +14,8 @@ Financial fraud causes significant economic losses and affects user confidence i
 ## Dataset
 The dataset used contains more than 568,000 transactions, each described by 30 numerical variables.
 - Explanatory variables: V1 to V28 (anonymised variables), transaction amount and elapsed time
-- Target variable: Class
-  -> 0: legitimate transaction
+- Target variable: Class  
+  -> 0: legitimate transaction  
   -> 1: fraudulent transaction
 
 Our dataset is clean, with no missing values, and balanced between fraudulent and non-fraudulent transactions.
@@ -36,5 +36,5 @@ We tested the following models:
 
 ## File organisation 
 - dataset: https://drive.google.com/drive/folders/1jWy0TTkHDhrWvijZ_e9NbIOnjDIRdNKP?usp=sharing
-- "descriptive_analysis.ipynb": analysis of our dataset
-- "Models_Preprocessing.ipynb": training and evaluation of models
+- `descriptive_analysis.ipynb`: analysis of our dataset
+- `Models_Preprocessing.ipynb`: training and evaluation of models
