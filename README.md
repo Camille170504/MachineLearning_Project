@@ -1,6 +1,7 @@
 # MachineLearning_Project
 
 # Fraud Detection
+Paul Boudrot - Camille Bouvier - Quentin Cailly - Robinson Vincent
 
 ## Project Description
 
